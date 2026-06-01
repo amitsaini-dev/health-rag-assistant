@@ -1,0 +1,167 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Hide
+WLE Austria Logo (no text).svgWiki Loves Earth photo contest:
+Upload photos of natural heritage sites in India to help Wikipedia and win fantastic prizes!
+Contents hide
+(Top)
+Scope of practice
+
+Role in health care system
+Quality of care
+
+Dissemination of information
+Challenges
+
+Declining numbers
+Maldistribution
+
+Lagging quality of care measures
+References
+Primary care physician
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+
+A patient having his blood pressure measured
+A primary care physician (PCP) is a physician who provides both the first contact for a person with an undiagnosed health concern as well as continuing care of varied medical conditions, not limited by cause, organ system, or diagnosis. The term is primarily used in the United States. In the past, the equivalent term was 'general practitioner' in the US; however in the United Kingdom and other countries the term general practitioner is still used. With the advent of nurses as PCPs, the term PCP has also been expanded to denote primary care providers.
+
+A core element in general practice is continuity that bridges episodes of various illnesses. Greater continuity with a general practitioner has been shown to reduce the need for out-of-hours services and acute hospital admittance. Furthermore, continuity by a general practitioner reduces mortality.[1]
+
+All PCPs first complete medical school (MD, MBBS, or DO). To become primary care physicians, medical school graduates then undertake a postgraduate training in primary care programs, such as family medicine (also called family practice or general practice in some countries), pediatrics or internal medicine. Some HMOs consider gynecologists as PCPs for the care of women and have allowed certain subspecialists to assume PCP responsibilities for selected patient types, such as allergists caring for people with asthma and nephrologists acting as PCPs for patients on kidney dialysis.
+
+Emergency physicians are sometimes counted as primary care physicians. Emergency physicians see many primary care cases, but in contrast to family physicians, pediatricians and internists, they are trained and organized to focus on episodic care, acute intervention, stabilization, and discharge or transfer or referral to definitive care, with less of a focus on chronic conditions and limited provision for continuing care.
+
+Scope of practice
+A set of skills and scope of practice may define a primary care physician, generally including basic diagnosis and treatment of common illnesses and medical conditions.[2] Diagnostic techniques include interviewing the patient to collect information on the present symptoms, prior medical history and other health details, followed by a physical examination. Many PCPs are trained in basic medical testing, such as interpreting results of blood or other patient samples, electrocardiograms, or x-rays. More complex and time-intensive diagnostic procedures are usually obtained by referral to specialists, with special training with a technology or increased experience and patient volume that make a risky procedure safer for the patient.[3] After collecting data, the PCP arrives at a differential diagnosis and, with the participation of the patient, formulates a plan including (if appropriate) components of further testing, specialist referral, medication, therapy, diet or life-style changes, patient education, and follow up results of treatment.
+
+Primary care physicians also counsel and educate patients on safe health behaviors, self-care skills and treatment options, and provide screening tests and immunizations.
+
+A recent United States survey, found that 45 percent of primary care doctors were contractually obligated to not inform patients when they moved on to another practice. This is a problem in rural areas, which may forbid doctors from setting up new or competing practices in areas where physicians are scarce.[4]
+
+Role in health care system
+A primary care physician is usually the first medical practitioner contacted by a patient because of factors such as ease of communication, accessible location, familiarity, and increasingly issues of cost and managed care requirements. In many countries residents are registered as patients of a (local) family doctor and must contact that doctor for referral to any other physician. They act as "gatekeepers", who regulate access to more costly procedures or specialists. Ideally, the primary care physician acts on behalf of the patient to collaborate with referral specialists, coordinate the care given by varied organizations such as hospitals or rehabilitation clinics, act as a comprehensive repository for the patient's records, and provide long-term management of chronic conditions. Continuous care is particularly important for patients with medical conditions that encompass multiple organ systems and require prolonged treatment and monitoring, such as diabetes and hypertension.
+
+Quality of care
+Studies that compare the knowledge base and quality of care provided by generalists versus specialists usually find that the specialists are more knowledgeable and provide better care.[5][6] However, the studies examine the quality of care in the domain of the specialists. In addition, they need to account for clustering of patients and physicians.[7]
+
+Studies of the quality of preventive health care find the opposite results: primary care physicians perform best. An analysis of elderly patients found that patients seeing generalists, as compared to patients seeing specialists, were more likely to receive influenza vaccination.[8] In health promotion counseling, studies of self-reported behavior found that generalists were more likely than internal medicine specialists to counsel patients[9] and to screen for breast cancer.[10]
+
+Exceptions may be diseases that are so common that primary care physicians develop their own expertise. A study of patients with acute low back pain found the primary care physicians provided equivalent quality of care but at lower costs than orthopedic specialists.[11]
+
+Factors associated with quality of care by primary care physicians:
+
+The more experience the primary care physician has with a specific disease.[12]
+Physician group affiliation with networks of multiple groups.[13]
+Dissemination of information
+The dissemination of information to generalists compared to specialists is complicated.[14] Two studies found specialists were more likely to adopt COX-2 drugs before the drugs were recalled by the FDA.[15][16] One of the studies went on to state "using COX-2s as a model for physician adoption of new therapeutic agents, specialists were more likely to use these new medications for patients likely to benefit but were also significantly more likely to use them for patients without a clear indication".[16] Similarly, a separate study found that specialists were less discriminating in their choice of journal reading.[17]
+
+Challenges
+Declining numbers
+In the United States, the number of medical students entering family practice training dropped by 50% between 1997 and 2005.[18] In 1998, half of internal medicine residents chose primary care, but by 2006, over 80% became specialists.[19] A survey Research by the University of Missouri-Columbia (UMC) and the U.S. Department of Health and Human Services predicts that by 2025 the United States will be short 35,000 to 44,000 adult care primary care physicians.[20]
+
+Causes parallel the evolutionary changes occurring in the US medical system: payment based on quantity of services delivered, not quality; aging of the population increases the prevalence and complexity of chronic health conditions, most of which are handled in primary care settings; and increasing emphasis on life-style changes and preventative measures, often poorly covered by health insurance or not at all.[21] In 2004, the median income of specialists in the US was twice that of PCPs, and the gap is widening.[22] Discontent by practicing primary care internists is discouraging trainees from entering primary care; in a 2007 survey of 1,177 graduating US medical students, only 2% planned to enter a general internal medicine career, and lifestyle was emphasized over the higher subspecialty pay in their decision.[23] Primary care practices in the United States increasingly depend on foreign medical graduates to fill depleted ranks.[21]
+
+Maldistribution
+Developing countries face an even more critical disparity in primary care practitioners. The Pan American Health Organization reported in 2005 that "the Americas region has made important progress in health, but significant challenges and disparities remain. Among the most important is the need to extend quality health care to all sectors of the population.... Experience over the last 27 years shows that health systems that adhere to the principles of primary health care produce greater efficiency and better health outcomes in terms of both individual and public health."[24] The World Health Organization (WHO) has identified worsening trends in access to PCPs and other primary care workers, both in the developed and the developing nations:[25]
+
+"Worker numbers and quality are positively associated with immunization coverage, outreach of primary care, and infant, child and maternal survival."
+"The quality of doctors and the density of their distribution have been shown to correlate with positive outcomes in cardiovascular diseases."
+"In health systems, (primary care) workers function as gatekeepers and navigators for the effective, or wasteful, application of all other resources such as drugs, vaccines and supplies."
+"There are currently 57 countries with critical shortages equivalent to a global deficit of 2.4 million doctors, nurses and midwives."
+"In many countries, the skills of limited yet expensive professionals are not well matched to the local profile of health needs."
+"...all countries suffer from maldistribution characterized by urban concentration and rural deficits."
+"Richer countries face a future of low fertility and large populations of elderly people, which will cause a shift towards chronic and degenerative diseases with high care demands."
+"Growing gaps will exert even greater pressure on the outflow of health workers from poorer regions."
+Lagging quality of care measures
+A survey of 6,000 primary care doctors in seven countries revealed disparities in several areas that affect quality of care.[26] Differences did not follow trends of the cost of care; primary care physicians in the United States lagged behind their counterparts in other countries, despite the fact that the US spends two to three times as much per capita. Arrangements for after-hours care were almost twice as common in the Netherlands, Germany and New Zealand as in Canada and the United States, where patients must rely on emergency facilities. Other major disparities include automated systems to remind patients about follow-up care, give patients test results or warn of harmful drug interactions. There were differences as well among primary care doctors, regarding financial incentives to improve the quality of care.
+
+References
+ Sandvik, Hogne; Hetlevik, Øystein; Blinkenberg, Jesper; Hunskaar, Steinar (2022). "Continuity in general practice as predictor of mortality, acute hospitalisation, and use of out-of-hours care: A registry-based observational study in Norway". British Journal of General Practice. 72 (715): e84–e90. doi:10.3399/BJGP.2021.0340. PMC 8510690. PMID 34607797.
+ Institute of Medicine (1996). Primary Care: America's Health in a New Era. National Academies Press. p. 27. Archived from the original on 2006-12-17. Retrieved 2006-08-30.
+ Institute of Medicine (2000). Interpreting the Volume-Outcome Relationship in the Context of Health Care Quality. National Academies Press. Retrieved 2006-08-30.[permanent dead link]
+ Andrews, Michelle (2019-03-15). "Did Your Doctor Disappear Without a Word? A Noncompete Clause Could Be the Reason". The New York Times. Retrieved 2019-03-18.
+ Majumdar S, Inui T, Gurwitz J, Gillman M, McLaughlin T, Soumerai S (2001). "Influence of physician specialty on adoption and relinquishment of calcium channel blockers and other treatments for myocardial infarction". J Gen Intern Med. 16 (6): 351–9. doi:10.1046/j.1525-1497.2001.016006351.x. PMC 1495223. PMID 11422631.
+ Fendrick A, Hirth R, Chernew M (1996). "Differences between generalist and specialist physicians regarding Helicobacter pylori and peptic ulcer disease". Am J Gastroenterol. 91 (8): 1544–8. PMID 8759658.
+ "Summaries for patients. Comparing the quality of diabetes care by generalists and specialists". Ann Intern Med. 136 (2): I-42. 2002. doi:10.7326/0003-4819-136-2-200201150-00003. PMID 11928735.
+ Rosenblatt R, Hart L, Baldwin L, Chan L, Schneeweiss R (1998). "The generalist role of specialty physicians: is there a hidden system of primary care?". JAMA. 279 (17): 1364–70. doi:10.1001/jama.279.17.1364. PMID 9582044.
+ Lewis C, Clancy C, Leake B, Schwartz J (1991). "The counseling practices of internists". Ann Intern Med. 114 (1): 54–8. doi:10.7326/0003-4819-114-1-54. PMID 1983933.
+ Turner B, Amsel Z, Lustbader E, Schwartz J, Balshem A, Grisso J (1992). "Breast cancer screening: effect of physician specialty, practice setting, year of medical school graduation, and sex". Am J Prev Med. 8 (2): 78–85. doi:10.1016/S0749-3797(18)30838-9. PMID 1599724.
+ Carey T, Garrett J, Jackman A, McLaughlin C, Fryer J, Smucker D (1995). "The outcomes and costs of care for acute low back pain among patients seen by primary care practitioners, chiropractors, and orthopedic surgeons. The North Carolina Back Pain Project". N Engl J Med. 333 (14): 913–7. doi:10.1056/NEJM199510053331406. PMID 7666878.
+ Kitahata M, Koepsell T, Deyo R, Maxwell C, Dodge W, Wagner E (1996). "Physicians' experience with the acquired immunodeficiency syndrome as a factor in patients' survival". N Engl J Med. 334 (11): 701–6. doi:10.1056/NEJM199603143341106. PMID 8594430.
+ Friedberg; et al. (2007). "Does Affiliation of Physician Groups with One Another Produce Higher Quality Primary Care?". Journal of General Internal Medicine. 22 (10): 1385–1392. doi:10.1007/s11606-007-0234-0. PMC 2305845. PMID 17594130.
+ Turner BJ, Laine C (2001). "Differences between generalists and specialists: knowledge, realism, or primum non nocere?". Journal of General Internal Medicine. 16 (6): 422–4. doi:10.1046/j.1525-1497.2001.016006422.x. PMC 1495225. PMID 11422641.
+ Rawson N, Nourjah P, Grosser S, Graham D (2005). "Factors associated with celecoxib and rofecoxib utilization". Ann Pharmacother. 39 (4): 597–602. doi:10.1345/aph.1E298. PMID 15755796. S2CID 25826363.
+ De Smet BD, Fendrick AM, Stevenson JG, Bernstein SJ (2006). "Over and under-utilization of cyclooxygenase-2 selective inhibitors by primary care physicians and specialists: the tortoise and the hare revisited". Journal of General Internal Medicine. 21 (7): 694–7. doi:10.1111/j.1525-1497.2006.00463.x. PMC 1924718. PMID 16808768.
+ McKibbon KA, Haynes RB, McKinlay RJ, Lokker C (2007). "Which journals do primary care physicians and specialists access from an online service?". Journal of the Medical Library Association. 95 (3): 246–54. doi:10.3163/1536-5050.95.3.246. PMC 1924945. PMID 17641754.
+ American Academy of Family Physicians, National Resident Matching Program data: Family Medicine Residency Positions and Number Filled by U.S. Medical School Graduates, 1994-2006 Retrieved 30 August 2006
+ "The Impending Collapse of Primary Care Medicine and Its Implications for the State of the Nation's Health Care" (PDF) (Press release). The American College of Physicians. 2006-01-30. Archived from the original (PDF) on 2011-09-27. Retrieved 2006-08-30.
+ Jack M. Colwill, James M. Cultice and Robin L. Kruse, JM; Cultice, JM; Kruse, RL (2008-04-29). "Will Generalist Physician Supply Meet Demands Of An Increasing And Aging Population?". Health Affairs. 27 (3): w232–w241. doi:10.1377/hlthaff.27.3.w232. PMID 18445642.
+ Bodenheimer, Thomas (2006-08-31). "Primary care - Will It Survive?". The New England Journal of Medicine. 355 (9): 861–864. doi:10.1056/NEJMp068155. PMID 16943396.
+ Medical Group Management Association Physician Compensation Survey, 1998–2005: Median Compensation for Selected Medical Specialties Retrieved 30 August 2006
+ Hauer, KE; Durning, SJ; Kernan, WN; Fagan, MJ; Mintz, M; O'Sullivan, PS; Battistone, M; Defer, T; et al. (2008-09-10). "Factors Associated With Medical Students' Career Choices Regarding Internal Medicine". JAMA. 300 (10): 1154–1164. doi:10.1001/jama.300.10.1154. PMID 18780844.
+ Pan American Health Organization (September 2005): Regional Declaration on the New Orientations of Primary Health Care Retrieved 30 August 2006
+ World Health Organization: World Health Report-2006 Retrieved 30 August 2006
+ Cathy Schoen, Robin Osborn, Phuong Trang Huynh, Michelle Doty, Jordon Peugh, and Kinga Zapert, C; Osborn, R; Huynh, PT; Doty, M; Peugh, J; Zapert, K (1999-11-02). "On The Front Lines Of Care: Primary Care Doctors' Office Systems, Experiences, And Views In Seven Countries" (abstract). Health Affairs. 25 (6): w555-71. doi:10.1377/hlthaff.25.w555. PMID 17102164. Retrieved 2006-11-06.
+vte
+Medicine
+Specialties
+and
+subspecialties	
+Surgery	
+Cardiac surgeryCardiothoracic surgeryEndocrine surgeryEye surgeryGeneral surgery Colorectal surgeryDigestive system surgeryHand surgeryNeurosurgeryOphthalmologyOral and maxillofacial surgeryOrthopedic surgeryOtolaryngology ENTPediatric surgeryPlastic surgeryReproductive surgerySurgical oncologyTransplant surgeryTrauma surgeryUrology AndrologyVascular surgery
+Internal
+medicine	
+Allergy / ImmunologyAngiologyCardiology InterventionalEndocrinologyGastroenterology HepatologyGeriatricsHematologyHospital medicineInfectious diseasesNephrologyOncology Molecular oncologyPulmonologyRheumatology
+Obstetrics and
+gynaecology	
+GynaecologyGynecologic oncologyMaternal–fetal medicineObstetricsReproductive endocrinology and infertilityUrogynecology
+Diagnostic	
+Pathology AnatomicalClinical pathologyClinical chemistryCytopathologyMedical microbiologyTransfusion medicineRadiology Interventional radiologyNeuroradiologyNuclear medicine
+Common	
+Anesthesiology Obstetric anesthesiologyNeurosurgical anesthesiologyDermatologyEmergency medicine Mass gathering medicineFamily medicine / General practiceHospital medicineIntensive care medicineMedical geneticsNeurology Clinical neurophysiologyOral medicinePalliative carePediatrics NeonatologyPhysical medicine and rehabilitation (PM&R)Preventive medicinePsychiatry Addiction psychiatryNeuropsychiatryRadiation oncologyTransplantation medicine
+Other	
+Addiction medicineAdolescent medicineAviation medicineDisaster medicineDiving medicineEvolutionary medicineExpedition medicineNarcologyOccupational medicinePain managementPhlebologyPrison healthcareReproductive medicineSexual medicine VenereologySleep medicineSports medicineTropical medicine Travel medicine
+Medical
+education	
+Bachelor of Medicine, Bachelor of SurgeryBachelor of Medical SciencesDoctor of MedicineDoctor of Osteopathic MedicineMaster of MedicineMaster of SurgeryMedical schoolMedical studentMD–PhD Medical Scientist Training Program
+Related topics	
+Allied healthHistory of medicineMedical terminologyNanomedicinePersonalized medicinePublic healthRural healthTherapyVeterinary medicinePhysician
+ Category Commons Wikiproject Portal Outline
+Categories: Primary careMedical doctorsHealth care occupationsFamily medicine in the United StatesPediatrics
+This page was last edited on 20 May 2026, at 19:37 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki

@@ -1,0 +1,540 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Hide
+WLE Austria Logo (no text).svgWiki Loves Earth photo contest:
+Upload photos of natural heritage sites in India to help Wikipedia and win fantastic prizes!
+Contents hide
+(Top)
+Etymology and origin
+Concepts in triage
+
+Pre-modern history of triage
+
+Modern history of triage
+
+Specific triage systems and methods
+
+Limitations of current practices
+Ethical considerations
+
+See also
+References
+External links
+Triage
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+This article is about the concept of triage as it occurs in medical emergencies and disasters. For other uses, see Triage (disambiguation).
+Triage tent set up outside of a Swedish Hospital
+A triage area outside the US Pentagon building following 9/11.
+Australian medic conducts triage in the shade of a tree. Pakistan 2010.
+A Hospital Corpsman prepares a wounded Marine for evacuation from a forward aid station in the Yanggu area.
+An U.S. Air Force emergency responder from the 35th Medical Group evacuates a simulated casualty during a major accident response exercise at Misawa Air Base.
+U.S. Air Force Capt. Jennilyn Estell, right, a dentist with the 374th Dental Squadron, guides Senior Airman Fausto Rojas, a simulated patient with the 374th Medical Support Squadron, to a decontamination area
+From top-left to bottom-right:
+COVID-19 triage tent outside of a Swedish Hospital
+9/11 triage station outside of the Pentagon
+2010 Pakistan floods triage station under a tree
+Korean War triage station in modern South Korea
+Mass casualty drill at Misawa Air Base
+CBRN triage drill at Yokota Air Base
+In medicine, triage (/ˈtriː.ɑːʒ/, /tri.ˈɑːʒ/; French: [tʁiaʒ]) is a process by which care providers, such as medical professionals and those with first aid knowledge, determine the order of priority for providing treatment to injured individuals[1] and/or inform the rationing of limited supplies so that they go to those who can most benefit from it.[2] Triage is usually relied upon when there are more injured individuals than available care providers (known as a mass casualty incident) or when there are more injured individuals than supplies to treat them.[3]
+
+The methodologies of triage vary by institution, locality, and country, but have the same universal underlying concepts.[4] In most cases, the triage process places the most injured and most able to be helped as the first priority, with the most terminally injured the last priority (except in the case of reverse triage).[5] Triage systems vary dramatically based on a variety of factors, and can follow specific, measurable metrics, like trauma scoring systems, or can be based on the medical opinion of the provider.[6] Triage is an imperfect practice, and can be largely subjective, especially when based on general opinion rather than a score.[7][8] This is because triage needs to balance multiple and sometimes contradictory objectives simultaneously, most of them being fundamental to personhood: likelihood of death, efficacy of treatment, patients' remaining lifespan, ethics, and religion.
+
+Etymology and origin
+The term triage comes directly from French triage, meaning the action of picking or sorting,[9] it itself coming from the Old French verb trier, meaning to separate, sort, shift, or select; trier in turn came from late Latin tritare, to grind.[10] Although the concept existed much earlier, at least as far back as the reign of Maximillian I,[11] it was not until the 1800s that the Old French trier was used to describe the practice of triage.[12] That year, Baron Dominique-Jean Larrey, the Surgeon in Chief of Napoleon's Imperial Guard, laid the groundwork for what would eventually become modern triage,[1] introducing the concept of "treat[ing] the wounded according to the observed gravity of their injuries and the urgency for medical care, regardless of their rank or nationality".[13]
+
+Concepts in triage
+Simple triage
+Simple triage is usually used in a scene of an accident or "mass-casualty incident" (MCI), in order to sort patients into those who need critical attention and immediate transport to a secondary or tertiary care facility to survive, those who require low-intensity care to survive, those who are uninjured, and those who are deceased or will be so imminently.[14] In the United States, this most commonly takes the form of the START or SALT triage models, in Canada, the CTAS model, and in Australia the ATS model.[15][16] Assessment often begins with asking anyone who can walk to walk to a designated area, labeling them the lowest priority, and assessing other patients from there.[15] Upon completion of the initial assessment by the care provider, which is based on the so-called ABCDE approach,[4][17] patients are generally labelled with their available information, including "patient’s name, sex, injuries, interventions, care-provider IDs, casualty triage score, and an easily visible overall triage category".[18]
+
+ABCDE Assessment
+Main article: ABC (medicine)
+An ABCDE assessment (other variations include ABC,[19] ABCD,[20] ABCDEF,[21] and many others, including those localized to non-English) is rapid patient assessment designed to check bodily function in order of importance.[17]
+
+ABCDE Assessment Example[17]
+Letter	Term	Meaning
+A	Airway	Checking for airway obstruction
+B	Breathing	Checking if the patient is breathing and if the breathing is normal
+C	Circulation	Checking to see if the heart rate and capillary refill time is normal
+D	Disability	Checking the patient's alertness, awareness, and response to painful stimuli
+E	Exposure	Checking the patient for trauma, bleeding, temperature, and other skin signs
+Tags
+Main article: Triage tag
+
+Many triage systems use triage tags with specific formats
+
+Emergency Triage (E/T) Lights – particularly useful at night or under adverse conditions
+A triage tag is a premade label placed on each patient that serves to accomplish several objectives:
+
+identify the patient.
+bear record of assessment findings.
+identify the priority of the patient's need for medical treatment and transport from the emergency scene.
+track the patients' progress through the triage process.
+identify additional hazards such as contamination.
+Triage tags take a variety of forms. Some countries use a nationally standardized triage tag,[22] while in other countries commercially available triage tags are used, which vary by jurisdictional choice.[23] In some cases, international organizations also have standardized tags, as is the case with NATO.[24] The most commonly used commercial systems include the METTAG,[25] the SMARTTAG,[26] E/T LIGHT[27] and the CRUCIFORM systems.[28] More advanced tagging systems incorporate special markers to indicate whether or not patients have been contaminated by hazardous materials, and also tear off strips for tracking the movement of patients through the process.[29]
+
+Advanced triage
+In advanced triage, those with advanced training, such as doctors, nurses and paramedics make further care determinations based on more in-depth assessments, and may make use of advanced diagnostics like CT scans.[30] This can also be a form of secondary triage, where the evaluation occurs at a secondary location like a hospital,[31] or after the arrival of more qualified care providers.
+
+Reverse triage
+There are three primary concepts referred to as reverse triage. The first is concerned with the discharge of patients from hospital often to prepare for an incoming mass casualty.[32] The second concept of Reverse Triage is utilized for certain conditions such as lightning injuries, where those appearing to be dead may be treated ahead of other patients, as they can typically be resuscitated successfully.[5] The third is the concept of treating the least injured, often to return them to functional capability. This approach originated in the military, where returning combatants to the theatre of war may lead to overall victory (and survivability).[32]
+
+Undertriage and overtriage
+Undertriage is underestimating the severity of an illness or injury. An example of this would be categorizing a Priority 1 (Immediate) patient as a Priority 2 (Delayed) or Priority 3 (Minimal). The rate of undertriage generally varies by the location of the triage, with a 2014 review of triage practices in emergency rooms finding that in-hospital undertriaging occurred 34% of the time in the United States,[7] while reviews of pre-hospital triage finding undertriage rates of 14%.[33]
+
+Overtriage is the overestimating of the severity of an illness or injury. An example of this would be categorizing a Priority 3 (Minimal) patient as a Priority 2 (Delayed) or Priority 1 (Immediate). Acceptable overtriage rates have been typically up to 50% in an effort to avoid undertriage. Some studies suggest that overtriage is less likely to occur when triaging is performed by hospital medical teams, rather than paramedics or EMTs.[8]
+
+Telephone triage
+In telephone triage, care providers like nurses assess symptoms and medical history, and make a care recommendation over the phone.[34] A review of available literature found that these services provide accurate and safe information about 90% of the time.[35]
+
+Palliative care
+In triage, palliative care takes on a wider applicability, as some conditions which may be survivable outside of extreme circumstances become unsurvivable due to the nature of a mass casualty incident.[36] For these patients, as well as those who are deemed to be unsavable, palliative care can mean the difference of a painful death, and a relatively peaceful one.[37] During the COVID-19 pandemic issues of palliative care in triage became more obvious as some countries were forced to deny care to large groups of individuals due to lack of supplies and ventilators.[37][38]
+
+Evacuation
+In the field, evacuation of all casualties is the ultimate goal,[39] so that the site of the incident can ultimately be cleared, if necessary investigated, and eventually rendered safe. Additional considerations must be made to avoid overwhelming local resources,[40] and in some extreme cases, this can mean evacuating some patients to other countries.
+
+Alternative care facilities
+Alternative care facilities are places that are set up for the care of large numbers of patients, or are places that could be so set up. Examples include schools, sports stadiums, and large camps that can be prepared and used for the care, feeding, and holding of large numbers of victims of a mass casualty or other type of event.[41] Such improvised facilities are generally developed in cooperation with the local hospital, which sees them as a strategy for creating surge capacity. While hospitals remain the preferred destination for all patients, during a mass casualty event such improvised facilities may be required in order to divert low-acuity patients away from hospitals in order to prevent the hospitals becoming overwhelmed.
+
+Pre-modern history of triage
+
+A page of the Edwin Smith Papyrus
+The Edwin Smith Papyrus
+The general concept was first described in a 17th-century BCE Egyptian document, the Edwin Smith Papyrus.[42] Discovered in 1862, outside of modern-day Luxor, Egypt,[43] the Edwin Smith Papyrus contains descriptions of the assessment and treatment of a multitude of medical conditions, and divides injuries into three categories:
+
+"A medical condition I can heal"[42]
+"A medical condition I intend to fight with."[42]
+"A medical condition that cannot be healed."[42]
+The Holy Roman Empire
+During the reign of Emperor Maximilian I, during wartime, a policy was implemented where soldiers were prioritized over all others in hospitals, and the sickest soldiers received treatment first.[11]
+
+Modern history of triage
+
+Larrey's "flying ambulance" design.
+Napoleonic triage
+Modern triage grew out of the work of Baron Dominique-Jean Larrey and Pierre-François Percy during the reign of Napoleon. Larrey in particular introduced the concept of a "flying ambulance" (flying in this case meaning rapidly moving) or in its native French, Ambulance Volante.[1]
+
+World War I
+In 1914, Antoine Depage developed the five-tiered Ordre de Triage, a triage system which set specific benchmarks on evacuation, described staged evacuation.[44][45] French and Belgian doctors began using these concepts to inform the treatment of casualties at aid stations behind the front.[46][45] Those responsible for the removal of the wounded from a battlefield or their care afterwards would divide the victims into three categories:[3][47]
+
+Those who are likely to live, regardless of what care they receive;
+Those who are unlikely to live, regardless of what care they receive;
+Those for whom immediate care may make a positive difference in outcome.
+From that delineation, aid workers would follow the Ordre de Triage:
+
+First Order of Triage
+
+Casualty Clearing Station as described in the Second Order of Triage
+In the first order of triage, the injured would be evacuated to clearing stations in the night, when darkness offered maximum protection from the German forces.[45][48]
+
+Second Order of Triage
+Once at a casualty clearing station, wounds were dressed,[48] and anyone requiring immediate surgical intervention was placed in a cart and brought immediately to an ambulance pickup area. If the wounded could wait, they would be evacuated by ambulance during the night.[45]
+
+Third Order of Triage
+Ambulances, driven by YMCA and American Red Cross trained drivers then removed the casualties to mobile surgical centers, called postes avances des hospitaux du front or outposts of the frontline hospitals.[45][48]
+
+Fourth Order of Triage
+At the mobile surgical hospitals, the most severe cases were treated, specifically those who were likely to die before reaching a permanent, more equipped hospital. Anyone who could survive the trip was transported to a farther away, often costal, hospital.[45][48]
+
+Fifth Order of Triage
+Upon reaching a permanent hospital, casualties received appropriate care to treat all of their injuries.[45][48]
+
+World War II
+By the onset of World War II, American and British forces had adopted and adapted triage, with other global powers doing the same.[49][50] The increased availability of airplanes allowed rapid evacuation to a hospital outside of the warzone to become a part of the triage process.[49][50] Although the basic practices remained the same as in World War I, with initial evacuation to an aid station, followed by transitions to higher levels of care, and eventual admission to a permanent hospital, more advanced care was provided at each stage, and the mindset of treating only what was absolutely necessary fell away.[51] Although triage almost certainly occurred in the days after the atomic bombings of Hiroshima and Nagasaki, the pandemonium caused by the attack left records of such action non-existent until after the fifth day, at which point they are largely without historical use.[52]
+
+The Texas City disaster (1947)
+
+A destroyed rubber factory from the Texas City Disaster
+In 1947, the Texas City Disaster occurred when the SS Grandcamp exploded in Texas City, Texas, killing 600 people and injuring thousands more.[53] The entire fire department was killed in the blast, and what followed was a massive informal triage of the victims.[54] Drug stores, clinics, and homes were opened as makeshift triage stations. As the city has no hospital, they had to evacuate casualties to area facilities, including those in Galveston and Houston,[54] with at least one doctor relying on skills he had learned in World War II to inform care decisions.[55]
+
+The Korean War
+The Korean War saw the advent of the tiered triage, wherein care providers sorted people into categories defined ahead of time.[56] These categories, immediate, delayed, minimal and expectant are still the basis for most triage systems today.[56] The time period was also marked by improvements in medical understanding, including shock, which allowed effective interventions to be administered earlier in the Triage process, which in turn significantly improved outcomes.[57] At the same time, Mobile Army Surgical Hospitals (MASH) were introduced along with helicopters for evacuation. These helicopters, however were used for evacuation only, and care was not provided in the air during the evacuation.[24] These advances reduced fatalities for injured soldiers by up to 30%, and changed the nature of battlefield medicine significantly.[57]
+
+The Vietnam War
+The conditions of the Vietnam War drove further development on the concepts created during the Korean War. Advances in helicopters allowed the introduction of the first helicopter medics, who were able to provide fluid resuscitation, and other interventions mid-flight.[57] This made it so that the average time from injury to definitive care was less than two hours.[24] This evolution also flowed into the everyday life, with air ambulances emerging in the civilian world by the mid-1960's.[57] The use of triage in emergency departments and ambulance services also quickly followed.[24]
+
+The World Trade Center bombing (1993)
+In 1993, the north tower of the World Trade Center was bombed, in a plot with a similar intended outcome as the later September 11th attacks.[58] While search, rescue and triage operations immediately following were ordinary, the attack itself represented one of the first terrorist attacks affecting the United States directly. The fact that the U.S. was no longer seen as untouchable, along with the later Oklahoma City bombing in 1995, and the September 11th attack lead to long term changes in triage practices to be more focused on operational safety and the risk of secondary attacks designed to kill care providers.[59]
+
+Matsumato sarin attack (1994)
+In June 1994, emergency crews began responding to calls related to symptoms of toxic gas exposure in a neighborhood. Without proper personal protective equipment, more than 253 residents were evacuated and 50 were hospitalized.[60] 20 vehicles were called to the scene, and a mobile operating center was setup nearby, likely within the zone of contamination. Unaware of the presence of Sarin, triage was performed following the standard system of the time, which ultimately resulted in eight care givers experiencing mild sarin poisoning, and an unknown amount of additional staff experiencing general malaise.[61]
+
+At the time, no decontamination procedures or gas masks were available for incidents involving contaminants. In response, the Japan Self-Defense Forces created a decontamination team, which was then instrumental to the response of the Tokyo subway sarin attack which occurred only seven months later.[61]
+
+Triage in the present day
+As medical technology has advanced, so have modern approaches to triage, which are increasingly based on scientific models. The categorizations of the victims are frequently the result of triage scores based on specific physiological assessment findings. Some models, such as the START model may be algorithm-based. As triage concepts become more sophisticated, and to improve patient safety and quality of care, several human-in-the-loop decision-support tools have been designed on top of triage systems to standardize and automate the triage process (e.g., eCTAS, NHS 111) in both hospitals and the field.[62] Moreover, the recent development of new machine learning methods offers the possibility to learn optimal triage policies from data and in time could replace or improve upon expert-crafted models.[63]
+
+Specific triage systems and methods 
+
+Vital signs defining the color-coded triage. RR: respiratory rate; SpO2: saturation of peripheral oxygen (pulse oximetry); HR: heart rate; GCS: Glasgow Coma Score; Tp: temperature. Abnormal vital signs are strong predictors for intensive care unit admission and in-hospital mortality in adults triaged in the emergency department.
+
+A triage sign at a Mexican emergency department indicating the waiting time for patients based on the severity of their condition
+Most simply, the general purpose of triage is to sort patients by level of acuity to inform care decisions; so that the most people possible can be saved.[64] Although a multitude of systems, color codes, codewords, and categories exist to help direct it, in all cases, triage follows the same basic process.[4][65] In all systems, patients are first assessed for injuries,[4][66] then, they are categorized based on the severity of those injuries.[4] Although the number of categories differs from system to system, all have at least three in common; high severity, low severity, and deceased. Some systems involve features like scoring systems, such as the Revised Trauma Score,[6] the Injury Severity Score,[citation needed] and the Trauma and Injury Severity Score, the latter of which has been shown to be most effective at determining outcome.[citation needed]
+
+Triage systems by methodology
+S.T.A.R.T. model
+Main article: Simple triage and rapid treatment
+S.T.A.R.T. (Simple Triage and Rapid Treatment) is a simple triage system that can be performed by lightly trained lay and emergency personnel in emergencies.[66] It was developed at Hoag Hospital in Newport Beach, California for use by emergency services in 1983.[67]
+
+Triage separates the injured into four groups:[67]
+
+The expectant who are beyond help
+The injured who can be helped by immediate transportation
+The injured whose transport can be delayed
+Those with minor injuries who need help less urgently
+Triage also sets priorities for evacuation and transport as follows:[67]
+
+Deceased are left where they fell. These include those who are not breathing and repositioning their airway efforts were unsuccessful.
+Immediate or Priority 1 (red) evacuation to a medical facility as they need advanced medical care at once or within one hour. These people are in critical condition and would die without immediate assistance.
+Delayed or Priority 2 (yellow) can have their medical evacuation delayed until all immediate people have been transported. These people are in stable condition but require medical assistance.
+Minor or Priority 3 (green) are not evacuated until all immediate and delayed persons have been evacuated. These will not need advanced medical care for at least several hours. Continue to re-triage in case their condition worsens. These people are able to walk and may only need bandages and antiseptic.
+JumpSTART triage
+Main article: JumpSTART triage
+The JumpSTART pediatric triage MCI triage tool is a variation of the S.T.A.R.T. model. Both systems are used to sort patients into categories at mass casualty incidents (MCIs). However, JumpSTART was designed specifically for triaging children in disaster settings. Though JumpSTART was developed for use in children from infancy to age 8, where age is not immediately obvious, it is used in any patient who appears to be a child (patients who appear to be young adults are triaged using START).[68]
+
+Triage systems by country
+Australia and New Zealand
+In hospital settings, Australia and New Zealand rely on the Australasian Triage Scale (abbreviated ATS and formally known as the National Triage Scale).[69][70][71] The scale has been in use since 1994.[72] The scale consists of 5 levels, with 1 being the most critical (resuscitation), and 5 being the least critical (nonurgent).[69]
+
+Australasian Triage Scale
+Level	Description	Should be seen by provider within
+1	Resuscitation	0 minutes
+2	Emergency	10 minutes
+3	Urgent	30 minutes
+4	Semi-Urgent	60 minutes
+5	Nonurgent	120 minutes
+In field settings, various standardized triage systems are used, and there is no area wide standard.[73]
+
+Canada
+In 1995, the CAEP Triage and Acuity scale was launched in Canada relying on a simplified version of the Australian National Triage Scale.[74] This scale used three categories, emergent, urgent, and non-urgent.[75] This scale was deprecated in 1999 with the introduction of the Canadian Triage and Acuity Scale (CTAS),[76] which is used across the country to sort incoming patients.[77] The system categorizes patients by both injury and physiological findings, and ranks them by severity from 1–5 (1 being highest).[78] The model is not currently used for mass casualty triage, and instead the START protocol and METTAG triage tags is used.[79]
+
+Canadian Triage and Acuity Scale (CTAS)
+Level	Description	Should be seen by provider within
+1	Resuscitation	0 minutes
+2	Emergency	15 minutes
+3	Urgent	30 minutes
+4	Less Urgent	60 minutes
+5	Non Urgent	120 minutes
+France
+In France, the Prehospital triage in case of a disaster uses a multi-tier scale:
+
+Décédé (deceased), or urgence dépassée (beyond urgency)[80]
+Extrême urgence (extreme urgency): requiring care within a half hour.[81]
+Urgence absolue (absolute urgency):[82] requiring care within an hour.[81]
+Urgence relative (relative urgency):[82] requiring care, but not immediately.[81]
+Blessé léger (slightly injured)[80]
+Impliqué (involved, but not directly injured)[80]
+This triage is performed by a physician called médecin trieur (sorting medic).[83][84]
+
+Germany
+The German triage system uses four color codes:[85]
+
+German Triage System[85]
+Category	Meaning	Action	Examples
+  Category TI	Acute, life-threatening condition	Immediate, highest priority treatment	Arterial lesions, internal haemorrhage, major amputations
+  Category T2	Severe injury requiring urgent treatment	Rapid transport and treatment	Minor amputations, flesh wounds, fractures and dislocations
+  Category T3	Minor injury or no injury	Physician examination, clearance and discharge as soon as possible	Minor lacerations, sprains, abrasions
+  Deceased	Already dead, or expectant	No/low priority. Identification, guarding and evacuation as possible	Death, injuries not compatible with life
+In addition, also the "Manchester" triage system has been introduced in Germany as well as in its German speaking neighbour countries: in Germany itself in 2004, in Austria in 2009, and in German speaking parts of Switzerland in 2011 (see also Manchester-Triage-System (in German).
+
+Hong Kong
+In Hong Kong, triage in accident and emergency departments is performed by experienced registered nurses, and patients are divided into five triage categories: Critical, Emergency, Urgent, Semi-urgent and Non-urgent.[86] In mass casualty incidents, the START triage system is used.[87][88]
+
+Japan
+In Japan, the triage system is mainly used by health professionals. The categories of triage, in corresponding color codes, are:
+
+  Category I: Used for viable victims with potentially life-threatening conditions.
+  Category II: Used for victims with non-life-threatening injuries, but who urgently require treatment.
+  Category III: Used for victims with minor injuries that do not require ambulance transport.
+  Category 0: Used for victims who are dead, or whose injuries make survival unlikely.
+Portugal
+In Portugal, the "Manchester" triage protocol is used.[89]
+
+Portuguese Triage Protocol
+Level	Description	Should be seen by provider within
+  1	Emergency	0 minutes; needs immediate treatment
+  2	Highly urgent	10 minutes; needs practically immediate treatment
+  3	Urgent	60 minutes; needs fast treatment, but can wait
+  4	Less Urgent	120 minutes; may wait or be forwarded to other medical services
+  5	Not Urgent	240 minutes; may wait or be forwarded to other medical services
+Singapore
+All public hospitals in Singapore use the Patient Acuity Category Scale (PACS) to triage patient in Emergency Departement. PACS is a symptom-based differential diagnosis approach that triages patients according to their presenting complaints and objective assessments such as vital signs and Glasgow Coma Scale, allowing acute patients to be identified quickly for treatment. PACS classifies patients into four main categories: P1, P2, P3, and P4.[90]
+
+Patient Acuity Category Scale[90]
+Category (Priority Level)	Category Name	Description	Example
+P1	Critically ill and requires resuscitation	State of cardiovascular collapse or in imminent danger of collapse and require immediate medical attention.	Multiple major trauma, head injury with loss of consciousness, shortness of breath, unconsciousness from any cause
+P2	Major emergency	unable to walk and are in some form of distress, appear stable on initial examination, and are not in imminent danger of collapse, requires very early attention	Chest pain, major limb fractures, major joint dislocations, spinal cord injury, trunk injury with stable vital signs
+P3	Minor emergency	able to walk, have mild to moderate symptoms and require early treatment	All sprains, mild constant abdominal pain, fever with cough for several days, insect stings or animal bites (not in severe distress), superficial injuries with or without mild bleeding, minor head injury (alert, no vomiting), foreign object in ear, nose, or throat, urinary tract infections, headaches.
+P4	Nonemergency	Old injury or condition that has been present for a long time.	Chronic lower back pain, high cholesterol, acne.
+In mass casualty incidents, the START triage system is used.[91][92]
+
+Spain
+In Spain, there are two models which are the most common found in hospitals around the country:
+
+The Sistema Estructurado de Triaje (SET), which is an adaptation of the Model Andorrà de Triatge (MAT). The system uses 650 reasons for medical appointment in 32 symptomatic categories, that together with some patient information and basic exploratory data, classifies the emergency within 5 levels of urgency.
+The "Manchester", based on the system with the same name in the UK,[93] use 51 reasons for consultation. Through some yes/no questions, addressed in a diagram, it classifies the emergency in 5 severities.
+In mass casualty incidents, the Modelo Extrahospitalario de Triaje Avanzado (META)/Advanced Triage Out of Hospital Model system is used.[94][95] META is a seven-stage system, classifying patients as: Red 1st, Red 2nd, Red 3rd, Yellow 1st, Yellow 2nd, Green, and Deceased.[95] The system aligns with the ABCDE framework.
+
+Advanced Triage Out-of-Hospital Model/Modelo Extrahospitalario de Triaje Avanzado (META)[95]
+Category	Meaning
+  Red 1st	Compromised airway
+  Red 2nd	Not breathing, or abnormally breathing
+  Red 3rd	Asystole, arrhythmia, or hemorrhage
+  Yellow 1st	Injury requiring urgent care
+  Yellow 2nd	Injury requiring delayed care
+  Green	Mildly or non-injured
+Deceased	Dead
+United Kingdom
+In April 2023, the NHS and ambulance services adopted two new triage tools to be used in major incidents, replacing the NASMeD Triage Sieve.[96][97] These new tools resulted from a multi-stakeholder review led by the NHS but its implementation became more urgent after the Manchester Arena Inquiry made it a monitored recommendation for the NHS and National Ambulance Resilience Unit to adopt.[96][98]
+
+Ten Second Triage Tool
+The Ten Second Triage Tool (TST) was introduced as a way for all emergency services, including the police and fire service, to assess and prioritise mass casualties to provide lifesaving intervention.[97] The tool allows for rapid assessment by removing the need to measure physiological vital signs focusing on what the emergency responder can see.[97][99]
+
+  P1 – Patients who have catastrophic bleeding, a penetrating injury or those who are unconscious
+  P2 – Patients who are unable to walk but are conscious
+  P3 – Patients who are able to walk
+  Not Breathing – Patients who are not breathing (this replaces the deceased category)
+NHS Major Incident Triage Tool
+The Major Incident Triage Tool (MITT) serves as the more advanced triage tool for emergency medial responders to triage casualties.[97] The tool, derived from the Modified Physiological Triage Tool, can be used on both adults and children, and also includes the assessment of physiological vital signs.[97][100]
+
+  P1 – Life-threatening injury
+  P2 – Unconscious but breathing
+  P3 – Non-life-threatening injury
+  Dead – No signs of life or non-survivable injury
+United States
+A multitude of triage systems exist in the United States, and there is no national standard.[101] Among local, regional, state, and interstate systems, the START triage method is most commonly used.[15]
+
+United States Armed Forces
+The U.S. armed forces utilize a four-stage system,[24] A battlefield situation, care providers rank casualties for precedence, treat those who they can safely, and transport casualties who need it to a higher level of care, either a Forward Surgical Team or Combat Support Hospital.[102]
+
+The triage categories (with corresponding color codes), in order of priority, are:[24][103]
+
+U.S. Armed Forces Triage Categories[24]
+Category	Description	Conditions
+  Immediate	Life-threatening injury	Airway or breathing issues, hemorrhage
+  Delayed	Potentially life-threatening injury	Shock, Fractures and dislocations, abdominal, spinal, thoracic, or head injuries, uncomplicated major burns
+  Minimal	Not life-threatening injuries	Cuts, bruises, abrasions, small bone fractures, minor burns, strains/sprains, frostbite
+  Expectant	Non-survivable injuries	Cardiac arrest, massive head or brain trauma, Second or third degree burns over 70% or more of body
+Limitations of current practices
+Notions of mass casualty triage as an efficient rationing process of determining priority based upon injury severity are not supported by research, evaluation and testing of current triage practices, which lack scientific and methodological bases. START and START-like (START) triage that use color-coded categories to prioritize provide poor assessments of injury severity and then leave it to providers to subjectively order and allocate resources within flawed categories.[104] Some of these limitations include:
+
+lacking the clear goal of maximizing the number of lives saved, as well as the focus, design and objective methodology to accomplish that goal (a protocol of taking the worst Immediate – lowest chances for survival – first can be statistically invalid and dangerous)[104][105]
+using trauma measures that are problematic (e.g., capillary refill)[105] and grouping into broad color-coded categories that are not in accordance with injury severities, medical evidence and needs. Categories do not differentiate among injury severities and survival probabilities, and are invalid based on categorical definitions and evacuation priorities
+ordering (prioritization) and allocating resources subjectively within Immediate and Delayed categories, which are neither reproducible nor scalable, with little chance of being optimal[104]
+not considering/addressing size of incident, resources, and injury severities and prioritization within its categories[104][105] – e.g., protocol does not change whether 3, 30 or 3,000 casualties require its use, and regardless of available resources to be rationed
+not considering differences in injury severities and survival probabilities between types of trauma (blunt versus penetrating, etc.) and ages
+resulting in inconsistent tagging and prioritizing/ordering of casualties and substantial overtriage
+Research indicates there are wide ranges and overlaps of survival probabilities of the Immediate and Delayed categories, and other START limitations. The same physiologic measures can have markedly different survival probabilities for blunt and penetrating injuries. For example, a START Delayed (second priority) can have a survival probability of 63% for blunt trauma and a survival probability of 32% for penetrating trauma with the same physiological measures – both with expected rapid deterioration, while a START Immediate (first priority) can have survival probabilities that extend to above 95% with expected slow deterioration. Age categories exacerbate this. For example, a geriatric patient with a penetrating injury in the Delayed category can have an 8% survival probability, and a pediatric patient in the Immediate category can have a 98% survival probability. Issues with the other START categories have also been noted.[105] In this context, color-coded tagging accuracy metrics are not scientifically meaningful.
+
+Poor assessments, invalid categories, no objective methodology and tools for prioritizing casualties and allocating resources, and a protocol of worst first triage provide some challenges for emergency and disaster preparedness and response. These are clear obstacles for efficient triage and resource rationing, for maximizing savings of lives, for best practices and National Incident Management System (NIMS) compatibilities,[106][107][108] and for effective response planning and training.
+
+Inefficient triage also provides challenges in containing health care costs and waste. Field triage is based upon the notion of up to 50% overtriage as being acceptable. There have been no cost-benefit analyses of the costs and mitigation of triage inefficiencies embedded in the healthcare system. Such analyses are often required for healthcare grants funded by taxpayers, and represent normal engineering and management science practice. These inefficiencies relate to the following cost areas:
+
+tremendous investment in time and money since 9/11 to develop and improve responders' triage skills[105]
+cited benefits from standardization of triage methodology, reproducibility and interoperability,[105] and NIMS compatibilities
+avoided capital costs for taxpayer investment in additional EMS and trauma infrastructure[109]
+wasteful daily resource utilization and increased operating costs from acceptance of substantial levels of overtriage
+prescribed values of a statistical life[110] and estimated savings in human lives that could reasonably be expected using evidence-based triage practices
+ongoing performance improvements[106] that could reasonably be expected from a more objective optimization-based triage system and practices
+Ethical considerations
+Because treatment is intentionally delayed or withheld from individuals under this system, triage has ethical implications that complicate the decision-making process. Individuals involved in triage must take a comprehensive view of the process to ensure fidelity, veracity, justice, autonomy, and beneficence are safeguarded.[111]
+
+Ethical implications vary between different settings and the type of triage system employed, culminating in no single gold-standard approach to triage. Emergency departments are advised to preemptively plan strategies in attempts to mitigate the emotional burden on these triage responders.[112] While doing so, standards of care must be maintained to preserve the safety of both patients and providers.
+
+There is widespread agreement among ethicists that, in practice, during the COVID-19 pandemic triage should prioritize "those who have the best chance of surviving" and follow guidelines with strict criteria that consider both short-term and long-term survivability.[113] Likewise, the triage of other health services has been adjusted during the pandemic to limit resource strain on hospitals.
+
+Utilitarian approach and critique
+Under the utilitarian model, triage works to maximize the survival outcomes of the most people possible. This approach implies that some individuals may likely suffer or die, in order for the majority to survive. Triage officers must allocate limited resources and weigh an individual's needs along with the needs of the population as a whole.
+
+Some ethicists argue the utilitarian approach to triage is not an impartial mechanism, but rather a partial one that fails to address the social conditions that prevent optimal outcomes in marginalized communities, rendering it a practical but inadequate means of distributing health resources.[114]
+
+Special population groups
+There is wide discussion regarding how VIPs and celebrities should be cared for in the emergency department. It is generally argued that giving special considerations or deviating from the standard medical protocol for VIPs or celebrities is unethical due to the cost to others. However, others argue that it may be morally justifiable as long as their treatment does not hinder the needs of others after assessing overall fairness, quality of care, privacy, and other ethical implications.[115]
+
+Proposed frameworks in conflict
+A variety of logistical challenges complicate the triage and ultimate provision of care in conflict situations. Humanitarian actors acknowledge challenges like disruptions in food and medical supply chains, lack of suitable facilities, and existence of policies that prohibit administration of care to certain communities and populations as elements that directly impede the successful delivery of care.[116] The logistical realities of humanitarian emergencies and conflict situations threatens the bioethical principle of beneficence, the obligation to act for the benefit of others.[116]
+
+Technical challenges of triage in conflict settings
+To address the ethical concerns that underpin triage in conflict situations and humanitarian crises, new triage frameworks and classification systems have been suggested that aim to uphold human rights. Scholars have argued that new frameworks must prioritize informed consent and rely on established medical criteria only in order to respect the human rights considerations set forth by the Geneva Convention of 1864 and the Universal Declaration of Human Rights,[117] but no comprehensive triage model has been adopted by international bodies.
+
+Veterinary triage
+Emergency veterinarian Jessica Fragola wrote in 2022 about the ethics of animal triage. She said that pressures on veterinarians have been exacerbated by staffing shortages that resulted from the COVID-19 pandemic, coupled with growth in spending on veterinary care and on pet insurance.[118]
+
+See also
+icon	Medicine portal
+	Philosophy portal
+virus icon	COVID-19 portal
+Combat stress reaction
+Glasgow coma scale
+Hospital emergency codes
+Mass decontamination
+Remote patient monitoring
+Wilderness first aid
+References
+ Robertson-Steel I (February 2006). "Evolution of triage systems". Emergency Medicine Journal. 23 (2): 154–155. doi:10.1136/emj.2005.030270. PMC 2564046. PMID 16439754.
+ Muensterer OJ, Gianicolo EA, Paul NW (January 2021). "Rationing and triage of scarce, lifesaving therapy in the context of the COVID-19 pandemic: a cross-sectional, social media-driven, scenario-based online query of societal attitudes". IJS Global Health. 4 (1): e47. doi:10.1097/GH9.0000000000000047. ISSN 2576-3342. S2CID 220847218.
+ Iserson KV, Moskop JC (March 2007). "Triage in medicine, part I: Concept, history, and types". Annals of Emergency Medicine. 49 (3): 275–281. doi:10.1016/j.annemergmed.2006.05.019. PMID 17141139.
+ Triage and emergency assessment. World Health Organization. 2008.
+ van Ruler R, Eikendal T, Kooij FO, Tan EC (October 2022). "A shocking injury: A clinical review of lightning injuries highlighting pitfalls and a treatment protocol". Injury. 53 (10): 3070–3077. doi:10.1016/j.injury.2022.08.024. hdl:2066/288478. PMID 36038387. S2CID 251661429.
+ Petridou ET, Antonopoulos CN, Alexe DM (2008-01-01), "Injuries, Epidemiology of", in Heggenhougen HK (ed.), International Encyclopedia of Public Health, Oxford: Academic Press, pp. 609–625, doi:10.1016/b978-012373960-5.00186-6, ISBN 978-0-12-373960-5, retrieved 2023-05-10
+ Xiang H, Wheeler KK, Groner JI, Shi J, Haley KJ (September 2014). "Undertriage of major trauma patients in the US emergency departments". The American Journal of Emergency Medicine. 32 (9): 997–1004. doi:10.1016/j.ajem.2014.05.038. PMID 24993680.
+ Turégano-Fuentes F, Pérez-Díaz D, Sanz-Sánchez M, Ortiz Alonso J (October 2008). "Overall Asessment of the Response to Terrorist Bombings in Trains, Madrid, 11 March 2004". European Journal of Trauma and Emergency Surgery. 34 (5): 433–441. doi:10.1007/s00068-008-8805-2. PMID 26815987. S2CID 13657747.
+ "triage". Oxford English Dictionary (Online ed.). Oxford University Press. doi:10.1093/OED/8063675021. (Subscription or participating institution membership required.)
+ "Merriam-Webster Online Dictionary". Retrieved 2008-12-05.
+ Cueni C (27 November 2020). "Triage in Zeiten der Corona-Pandemie – Claude Cueni". Blick (in Swiss High German). Kirche und Leben. Retrieved 29 January 2022.
+ Nakao H, Ukai I, Kotani J (October 2017). "A review of the history of the origin of triage from a disaster medicine perspective". Acute Medicine & Surgery. 4 (4): 379–384. doi:10.1002/ams2.293. PMC 5649292. PMID 29123897.
+ Skandalakis PN, Lainas P, Zoras O, Skandalakis JE, Mirilas P (August 2006). ""To afford the wounded speedy assistance": Dominique Jean Larrey and Napoleon". World Journal of Surgery. 30 (8): 1392–9. doi:10.1007/s00268-005-0436-8. PMID 16850154. S2CID 42597837.
+ Hanfling D, Lang CR (2006-01-01). "Chapter 166 - Aircraft Crash Preparedness and Response". In Ciottone GR, Anderson PD, Der Heide EA, Darling RG (eds.). Disaster Medicine. Philadelphia: Mosby. pp. 829–833. ISBN 978-0-323-03253-7.
+ Yancey CC, O'Rourke M (2023). "Emergency Department Triage". StatPearls. Treasure Island (FL): StatPearls Publishing. PMID 32491515. Retrieved 2023-05-06.
+ "SALT Mass Casualty Triage Algorithm - CHEMM". chemm.hhs.gov. Retrieved 2026-05-31.
+ Thim T, Krarup NH, Grove EL, Rohde CV, Løfgren B (January 2012). "Initial assessment and treatment with the Airway, Breathing, Circulation, Disability, Exposure (ABCDE) approach". International Journal of General Medicine. 5: 117–121. doi:10.2147/IJGM.S28478. PMC 3273374. PMID 22319249.
+ Foley E, Reisner AT (2016). "Chapter 54 - Triage". In Ciottone GR (ed.). Ciottone's Disaster Medicine. Elsevier Inc. pp. 339–340. doi:10.1016/B978-0-323-28665-7.00054-6. ISBN 978-0-323-28665-7.
+ Schimelpfenig T. "ABCs of Wilderness Medicine: The Initial Assessment". blog.nols.edu. Lander, WY: National Outdoor Leadership School (NOLS ). Retrieved 2023-05-12.
+ Livingston EH, Passaro EP (January 1991). "Resuscitation. Revival should be the first priority". Postgraduate Medicine. 89 (1): 117–20, 122. doi:10.1080/00325481.1991.11700789. PMID 1985304.
+ UK Ambulance Services Clinical Practice Guidelines 2013. National Health Service. 2013. ISBN 9781859593639.
+ Idoguchi K, Mizobata Y, et al. (2006). "Usefulness of Our Proposed Format of Triage Tag". Journal of Japanese Association for Acute Medicine. 17 (5): 183–91. doi:10.3893/jjaam.17.183.
+ Nocera A, Garner A (August 1999). "Australian disaster triage: a colour maze in the Tower of Babel" (PDF). The Australian and New Zealand Journal of Surgery. 69 (8): 598–602. doi:10.1046/j.1440-1622.1999.01643.x. PMID 10472919. Archived from the original (PDF) on 2011-03-14. Retrieved 2010-04-12.
+ "FMSO 107 CONDUCT TRIAGE" (PDF). United States Marine Corps.
+ "METTAG Corporate website". Archived from the original on 2019-03-28. Retrieved 2008-12-05.
+ "Smart Triage Tag". TSG Associates Corporate website. Archived from the original on 2008-11-20. Retrieved 2008-12-05.
+ Beidel E (December 2010). "Military Medics, First Responders Guided By Simple Light". National Defense. Arlington, VA: National Defense Industrial Association. Archived from the original on 2011-01-31. Retrieved 2011-02-03.
+ Lakha R, Moore T (2006). Tolley's handbook of disaster and emergency management. Amsterdam: Elsevier. ISBN 978-0-7506-6990-0.
+ "Mass Casualty START Triage and the SMART Tag System". Administration for Strategic Preparedness and Response (ASPR). U.S. Department of Health and Human Services. Retrieved 2023-05-06.
+ Masoumi G. "Simple and advanced triage in occurrence of natural disasters and examine the role of volunteers". International Journal of Current Life Sciences.
+ Haller HL, Wurzer P, Peterlik C, Gabriel C, Cancio LC (2018-01-01). "5 - Burn Management in Disasters and Humanitarian Crises". In Herndon DN (ed.). Total Burn Care (Fifth ed.). Elsevier. pp. 36–49.e2. ISBN 978-0-323-47661-4.
+ Pollaris G, Sabbe M (August 2016). "Reverse triage: more than just another method". European Journal of Emergency Medicine. 23 (4): 240–247. doi:10.1097/MEJ.0000000000000339. PMID 26479736. S2CID 23551247.
+ Lokerman RD, Waalwijk JF, van der Sluijs R, Houwert RM, Leenen LP, van Heijl M (May 2022). "Evaluating pre-hospital triage and decision-making in patients who died within 30 days post-trauma: A multi-site, multi-center, cohort study". Injury. 53 (5): 1699–1706. doi:10.1016/j.injury.2022.02.047. PMID 35317915. S2CID 247240059.
+ Wheeler SQ, Greenberg ME, Mahlmeister L, Wolfe N (September 2015). "Safety of clinical and non-clinical decision makers in telephone triage: a narrative review". Journal of Telemedicine and Telecare. 21 (6): 305–322. doi:10.1177/1357633x15571650. PMID 25761468. S2CID 23049229.
+ Huibers L, Smits M, Renaud V, Giesen P, Wensing M (December 2011). "Safety of telephone triage in out-of-hours care: a systematic review". Scandinavian Journal of Primary Health Care. 29 (4): 198–209. doi:10.3109/02813432.2011.629150. PMC 3308461. PMID 22126218.
+ Matzo M, Wilkinson A, Lynn J, Gatto M, Phillips S (June 2009). "Palliative care considerations in mass casualty events with scarce resources". Biosecurity and Bioterrorism. 7 (2): 199–210. doi:10.1089/bsp.2009.0017. PMID 19635004.
+ Arya A, Buchman S, Gagnon B, Downar J (April 2020). "Pandemic palliative care: beyond ventilators and saving lives". CMAJ. 192 (15): E400–E404. doi:10.1503/cmaj.200465. PMC 7162443. PMID 32234725.
+ Misek R, The National Catholic Bioethics Center (2022). "The Injustice of Categorical Exclusions during Triage". The National Catholic Bioethics Quarterly. 22 (3): 495–507. doi:10.5840/ncbq202222345. ISSN 1532-5490. S2CID 254707340.
+ Xie T, Liu XR, Chen GL, Qi L, Xu ZY, Liu XD (2014-06-01). "Development and application of triage and medical evacuation system for casualties at sea". Military Medical Research. 1 (1) 12. doi:10.1186/2054-9369-1-12. PMC 4340638. PMID 25722870.
+ Pinkert M, Lehavi O, Goren OB, Raiter Y, Shamis A, Priel Z, et al. (August 2008). "Primary triage, evacuation priorities, and rapid primary distribution between adjacent hospitals--lessons learned from a suicide bomber attack in downtown Tel-Aviv". Prehospital and Disaster Medicine. 23 (4): 337–341. doi:10.1017/S1049023X00005975. PMID 18935948. S2CID 10929982.
+ "Chapter 8: Clinical and Public Health Systems Issues Arising from the Outbreak of Sars in Toronto (Public Health Agency of Canada website)". 2004-11-08. Archived from the original on 2008-12-06. Retrieved 2008-12-05.
+ van Middendorp JJ, Sanchez GM, Burridge AL (November 2010). "The Edwin Smith papyrus: a clinical reappraisal of the oldest known document on spinal injuries". European Spine Journal. 19 (11): 1815–1823. doi:10.1007/s00586-010-1523-6. PMC 2989268. PMID 20697750.
+ Stiefel M, Shaner A, Schaefer SD (February 2006). "The Edwin Smith Papyrus: the birth of analytical thinking in medicine and otolaryngology". The Laryngoscope. 116 (2): 182–188. doi:10.1097/01.mlg.0000191461.08542.a3. PMID 16467701. S2CID 35256503.
+ WSJ com News Graphics. "World War I Centenary: Triage". The Wall Street Journal. Retrieved 2023-05-26.
+ Pollock RA (November 2008). "Triage and management of the injured in world war I: the diuturnity of antoine de page and a belgian colleague". Craniomaxillofacial Trauma & Reconstruction. 1 (1): 63–70. doi:10.1055/s-0028-1098965. PMC 3052731. PMID 22110790.
+ Thompson G. "Battlefield Medicine: Triage-Field Hospital Section". Kansas University Medical Center. Retrieved 2023-05-26.
+ Chipman M, Hackley BE, Spencer TS (February 1980). "Triage of mass casualties: concepts for coping with mixed battlefield injuries". Military Medicine. 145 (2): 99–100. doi:10.1093/milmed/145.2.99. PMID 6768037.
+ Lewis CH (2013-12-15). "Triage and Trauma Medicine in United States Military History – Health & Medicine in American History". Retrieved 2023-05-26.
+ "Medicine in the war zone | Science Museum". www.sciencemuseum.org.uk. Retrieved 2023-05-26.
+ Katoch R, Rajagopalan S (October 2010). "Warfare Injuries: History, Triage, Transport and Field Hospital Setup in the Armed Forces". Medical Journal, Armed Forces India. 66 (4): 304–308. doi:10.1016/S0377-1237(10)80003-6. PMC 4919805. PMID 27365730.
+ Baker MS (March 2007). "Creating order from chaos: part I: triage, initial care, and tactical considerations in mass casualty and disaster response". Military Medicine. 172 (3): 232–236. doi:10.7205/MILMED.172.3.232. PMID 17436764. S2CID 44317599.
+ Leaning J, et al. (Institute of Medicine (US) Steering Committee for the Symposium on the Medical Implications of Nuclear War) (1986). "Burn and Blast Casualties: Triage in Nuclear War". In Solomon F, Marston RQ (eds.). The Medical Implications of Nuclear War. National Academies Press (US). Retrieved 2023-05-26.
+ Barnes M (17 April 2020). "Texas history: A witness to one of America's worst human-made disasters". Austin American-Statesman. Retrieved 2023-05-26.
+ Wall BM (2015). "Disasters, Nursing, and Community Responses: A Historical Perspective". Nursing History Review. 23 (1): 11–27. doi:10.1891/1062-8061.23.11. ISSN 1062-8061. PMID 25272474. S2CID 219207043.
+ Barnes M (8 May 2020). "Texas history: Readers relive the horrors of the 1947 Texas City Disaster". Austin American-Statesman. Retrieved 2023-05-27.
+ Nocera, Antony; Garner, Alan (August 1999). "An Australian Mass Casualty Incident Triage System for the Future Based Upon Triage Mistakes of the Past: The Homebush Triage Standard". ANZ Journal of Surgery. 69 (8): 603–608. doi:10.1046/j.1440-1622.1999.01644.x. ISSN 1445-1433. PMID 10472920.
+ Mitchell, Glenn W. (September 2008). "A Brief History of Triage". Disaster Medicine and Public Health Preparedness. 2 (S1): S4–S7. doi:10.1097/DMP.0b013e3181844d43. ISSN 1935-7893. PMID 18769265. S2CID 11093773.
+ "February 26, 1993 Commemoration". 9/11 Memorial & Museum.
+ Eckstein, Marc (August 1999). "The Medical Response to Modern Terrorism: Why the "Rules of Engagement" Have Changed". Annals of Emergency Medicine. 34 (2): 219–221. doi:10.1016/S0196-0644(99)70232-5. PMID 10424924.
+ Kulling, Per E. J.; Lorin, Henry (March 1999). "KAMEDO — A Swedish Disaster Medicine Study Organization". Prehospital and Disaster Medicine. 14 (1): 25–33. doi:10.1017/S1049023X0002851X. ISSN 1049-023X. PMID 10537595. S2CID 12078694.
+ Okudera, Hiroshi; Morita, Hiroshi; Iwashita, Tomomi; Shibata, Tatsuhiko; Otagiri, Tetsutaro; Kobayashi, Shigeaki; Yanagisawa, Nobuo (September 1997). "Unexpected nerve gas exposure in the city of Matsumoto: Report of rescue activity in the first sarin gas terrorism". The American Journal of Emergency Medicine. 15 (5): 527–528. doi:10.1016/S0735-6757(97)90201-1. PMID 9270397.
+ "Digital tools and virtual care in emergency services". 25 September 2020.
+ Buchard A, Bouvier B (2020). "Learning medical triage from clinicians using Deep Q-Learning". arXiv:2003.12828 [cs.AI].
+ Leadership During a Pandemic: What your municipality can do. USAID. 2011.
+ "What is the triage procedure?". Medecins Sans Frontieres - Middle East. Retrieved 2023-05-09.
+ Burstein JL, Hogan D (2007). Disaster medicine. Philadelphia: Wolters Kluwer Health/Lippincott Williams & Wilkins. p. 25. ISBN 978-0-7817-6262-5.
+ "START Adult Triage Algorithm - CHEMM". chemm.hhs.gov. Retrieved 2023-05-12.
+ "JumpSTART Pediatric Triage Algorithm". Chemical Hazards Emergency Medical Management. United States Department of Health and Human Services. June 25, 2011. Archived from the original on March 26, 2016. Retrieved February 9, 2016.
+ Aacharya RP, Gastmans C, Denier Y (2011). "Emergency department triage: an ethical analysis". BMC Emergency Medicine. 11 16. doi:10.1186/1471-227X-11-16. PMC 3199257. PMID 21982119.
+ "Policy on the Australasian Triage Scale" (PDF). Australasian College for Emergency Medicine. November 2000. Archived from the original (PDF) on 2012-03-22. Retrieved 2011-12-10.
+ "ACEM - Triage". acem.org.au. Retrieved 2023-05-10.
+ Christ M, Grossmann F, Winter D, Bingisser R, Platz E (December 2010). "Modern triage in the emergency department". Deutsches Ärzteblatt International. 107 (50): 892–98. doi:10.3238/arztebl.2010.0892. PMC 3021905. PMID 21246025.
+ Field K, Norton I (June 2012). "Australian triage tags: a prospective, randomised cross-over trial and evaluation of user preference". Emergency Medicine Australasia. 24 (3): 321–328. doi:10.1111/j.1742-6723.2012.01573.x. PMID 22672173. S2CID 25074668.
+ "A Uniform Triage Scale in Emergency Medicine: Information Paper" (PDF). American College of Emergency Physicians. June 1999.
+ "The Canadian Triage and Acuity Scale: Education Manual" (PDF). The Canadian Association of Emergency Physicians. 2012. Retrieved 10 May 2023.
+ "The Canadian Triage and Acuity Scale: Combined Adult/Paediatric Educational Program Participants Manual" (PDF). Canadian Association of Emergency Physicians. November 2013. Retrieved 10 May 2023.
+ "Canadian Triage and Acuity Scale (Canadian Association of Emergency Physicians website)". Archived from the original on 2008-12-10. Retrieved 2008-12-02.
+ Alghalyini B, Shakir IM, Wahed MM, Babar SM, Mohamed MS (30 June 2022). "Does SARI Score Predict COVID-19 Positivity? A Retrospective Analysis of Emergency Department Patients in a Tertiary Hospital" (PDF). Journal of Health and Allied Sciences. 13: 077–082. doi:10.1055/s-0042-1748806. S2CID 250189262. Retrieved 1 July 2022.
+ "METTAG Triage Tags". Archived from the original on 2019-03-28. Retrieved 2008-12-02.
+ "Attentats : que signifient "urgence absolue" ou "pronostic vital engagé" ?". Franceinfo (in French). 2018-12-13. Retrieved 2023-05-10.
+ "Extrême, absolue, relative comment trier les urgences". La Nouvelle République du Centre-Ouest (in French). 7 February 2017.
+ Carli P, Telion C, Baker D (June 2003). "Terrorism in France". Prehospital and Disaster Medicine. 18 (2): 92–99. doi:10.1017/S1049023X00000820. PMID 15074489. S2CID 31853138.
+ Hoyt DL, Wilson WJ, Grande CM (2007). Trauma. Informa Healthcare. ISBN 978-0-8247-2919-6.
+ Hamada SR, Gauss T, Duchateau FX, Truchot J, Harrois A, Raux M, et al. (June 2014). "Evaluation of the performance of French physician-staffed emergency medical service in the triage of major trauma patients". The Journal of Trauma and Acute Care Surgery. 76 (6): 1476–1483. doi:10.1097/TA.0000000000000239. PMID 24854319. S2CID 3405705.
+ Franke A, Bieler D, Friemert B, Hoth P, Pape HC, Achatz G (August 2020). "Terrorist incidents: strategic treatment objectives, tactical diagnostic procedures and the estimated need of blood and clotting products". European Journal of Trauma and Emergency Surgery. 46 (4): 695–707. doi:10.1007/s00068-020-01399-w. PMC 7364295. PMID 32676714.
+ "Guide to Accident & Emergency (A&E) Service". Hospital Authority. Archived from the original on 2012-09-08. Retrieved 2012-11-29.
+ Tingleung L (2020). "Disaster response approach in Hong Kong". Journal of Practical Shock. 4 (3): 186–192.
+ Kwok-leung S (2013). "Disaster Response From Scene to Hospitals" (PDF).
+ Sistema de Triagem de Manchester; Grupo Português de Triagem. Retrieved 2025-05-02.
+ Fong RY, Glen WS, Mohamed Jamil AK, Tam WW, Kowitlawakul Y (November 2018). "Comparison of the Emergency Severity Index versus the Patient Acuity Category Scale in an emergency setting". International Emergency Nursing. 41: 13–18. doi:10.1016/j.ienj.2018.05.001. PMID 29887281. S2CID 47014585.
+ Maruhashi T, Takeuchi I, Hattori J, Kataoka Y, Asari Y (April 2019). "The Tsukui (Japan) Yamayuri-en Facility Stabbing Mass-Casualty Incident". Prehospital and Disaster Medicine. 34 (2): 203–208. doi:10.1017/S1049023X19000128. PMID 30957735. S2CID 102349890.
+ Suzuki Y, Tsujiguchi T, Sakamoto M, Ito K, Tokonami S, Kashiwakura I. "Current Situation of Triage Methods for Exposed Patients in the Acute Phase of a Nuclear Disaster". Radiation Environment and Medicine.
+ Azeredo TR, Guedes HM, Rebelo de Almeida RA, Chianca TC, Martins JC (April 2015). "Efficacy of the Manchester Triage System: a systematic review". International Emergency Nursing. 23 (2): 47–52. doi:10.1016/j.ienj.2014.06.001. PMID 25087059.
+ Castro Delgado R, Gan RK, Cabrera García V, Arcos González P (June 2022). "Sensitivity and Specificity of Spanish Prehospital Advanced Triage Method (META)". Prehospital and Disaster Medicine. 37 (3): 321–326. doi:10.1017/S1049023X22000504. PMID 35379369. S2CID 247954532.
+ Arcos González P, Castro Delgado R, Cuartas Alvarez T, Garijo Gonzalo G, Martinez Monzon C, Pelaez Corres N, et al. (April 2016). "The development and features of the Spanish prehospital advanced triage method (META) for mass casualty incidents". Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine. 24 (1) 63. doi:10.1186/s13049-016-0255-y. PMC 4850631. PMID 27130042.
+ Vassallo J, Moran CG, Cowburn P, Smith J (November 2022). "New NHS Prehospital Major Incident Triage Tool: from MIMMS to MITT". Emergency Medicine Journal. 39 (11): 800–802. doi:10.1136/emermed-2022-212569. PMC 9613863. PMID 36244685.
+ "NHS England » Major incident triage tools". www.england.nhs.uk. Retrieved 2023-05-12.
+ Saunders J (November 2022). "Report of the Public Inquiry into the Attack on Manchester Arena on 22nd May 2017 - Volume 2-II" (PDF). Manchester Arena Inquiry. Archived from the original (PDF) on 21 February 2023. Retrieved 21 February 2023.
+ "NHS England » Ten Second Triage tool". www.england.nhs.uk. Retrieved 2023-06-08.
+ "NHS England » NHS Major Incident Triage Tool (MITT)". www.england.nhs.uk. Retrieved 2023-06-08.
+ Christian MD (October 2019). "Triage". Critical Care Clinics. 35 (4): 575–589. doi:10.1016/j.ccc.2019.06.009. PMC 7127292. PMID 31445606.
+ ATP 4-02.5: Casualty Care. United States Department of the Army. 2013.
+ "US Army Study Guide". Archived from the original on 2008-09-14. Retrieved 2008-12-04.
+ Lindsey J (July 2005). "New triage method considers available resources" (PDF). JEMS: A Journal of Emergency Medical Services. 30 (7): 92–94. doi:10.1016/S0197 (inactive 12 July 2025). PMID 16027670. Archived from the original (PDF) on 2016-03-04.
+ Lerner EB, Schwartz RB, Coule PL, Weinstein ES, Cone DC, Hunt RC, et al. (September 2008). "Mass casualty triage: an evaluation of the data and development of a proposed national guideline". Disaster Medicine and Public Health Preparedness. 2 (Suppl 1): S25–S34. doi:10.1097/DMP.0b013e318182194e. PMID 18769263. S2CID 8262943.
+ "National Incident Management System". US Department of Homeland Security. December 2008.
+ Villani D (September 2007). "Letter to FEMA asking if START and STM are NIMS compatible" (PDF). Department of Public Safety, Okaloosa County, Florida. Archived from the original (PDF) on 2016-03-03.
+ Fluman A (December 2007). "FEMA Letter to Dino Villani, former State of Florida EMS Director, summarizing FEMA Evaluation and Testing Program of STM NIMS compatibilities and operational effectiveness and suitability" (PDF). Archived from the original (PDF) on 2016-03-04.
+ Brown D (June 2006). "Crisis Seen in Nation's ER Care". The Washington Post.
+ Appelbaum B (2011-02-16). "As U.S. Agencies Put More Value on a Life, Businesses Fret". The New York Times. ISSN 0362-4331. Retrieved 2023-02-17.
+ Repine TB, Lisagor P, Cohen DJ (June 2005). "The dynamics and ethics of triage: rationing care in hard times". Military Medicine. 170 (6): 505–509. doi:10.7205/milmed.170.6.505. PMID 16001601.
+ Hick JL, Hanfling D, Cantrill SV (March 2012). "Allocating scarce resources in disasters: emergency department principles". Annals of Emergency Medicine. 59 (3): 177–187. doi:10.1016/j.annemergmed.2011.06.012. PMID 21855170.
+ Joebges S, Biller-Andorno N (May 2020). "Ethics guidelines on COVID-19 triage-an emerging international consensus". Critical Care. 24 (1) 201. doi:10.1186/s13054-020-02927-1. PMC 7202791. PMID 32375855.
+ Okorie N (June 2019). "Partiality, impartiality and the ethics of triage". Developing World Bioethics. 19 (2): 76–85. doi:10.1111/dewb.12201. PMID 29933511. S2CID 49387832.
+ Geiderman JM, Malik S, McCarthy JJ, Jagoda A (October 2018). "The care of VIPs in the emergency department: Triage, treatment and ethics". The American Journal of Emergency Medicine. 36 (10): 1881–1885. doi:10.1016/j.ajem.2018.07.009. PMID 30238911. S2CID 52310367.[permanent dead link]
+ Broussard G, Rubenstein LS, Robinson C, Maziak W, Gilbert SZ, DeCamp M (2019-09-05). "Challenges to ethical obligations and humanitarian principles in conflict settings: a systematic review". Journal of International Humanitarian Action. 4 (1) 15. doi:10.1186/s41018-019-0063-x. ISSN 2364-3404. S2CID 201838587.
+ Domres B, Koch M, Manger A, Becker HD (2001). "Ethics and triage". Prehospital and Disaster Medicine. 16 (1): 53–58. doi:10.1017/s1049023x00025590. PMID 11367943. S2CID 36211479.
+ Fragola J (February 7, 2022). "Pets need vets: Be kind to both". Newsday.
+External links
+Wiktionary logo The dictionary definition of triage at Wiktionary
+Wikimedia Commons logo Media related to Triage at Wikimedia Commons
+vte
+Trauma
+vte
+Emergency medicine
+vte
+Emergency medical services around the world
+Authority control databases Edit this at Wikidata
+Categories: TriageEmergency managementFirst aidFrench medical phrasesIntensive care medicine
+This page was last edited on 31 May 2026, at 21:30 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki
