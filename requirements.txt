@@ -2,9 +2,10 @@ langchain
 langchain-community
 langchain-huggingface
 langchain-chroma
-# langchain-ollama
 langchain-groq
 langchain-text-splitters
 python-dotenv
 streamlit
 sentence-transformers
+chromadb==0.5.23
+protobuf==4.25.3
