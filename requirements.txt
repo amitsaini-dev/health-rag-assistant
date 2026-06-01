@@ -2,7 +2,8 @@ langchain
 langchain-community
 langchain-huggingface
 langchain-chroma
-langchain-ollama
+# langchain-ollama
+langchain-groq
 langchain-text-splitters
 python-dotenv
 streamlit

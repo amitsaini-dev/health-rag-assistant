@@ -1,7 +1,8 @@
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from dotenv import load_dotenv
-from langchain_ollama import ChatOllama
+# from langchain_ollama import ChatOllama
+from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage,SystemMessage
 load_dotenv()
 
@@ -75,10 +76,12 @@ Answer directly and concisely. Do not say you cannot find the answer if it exist
 """
 
 # Create a ChatOpenAI model
-model = ChatOllama(
-    model="llama3.2",
-    temperature=0
-)
+
+# model = ChatOllama(
+#     model="llama3.2",
+#     temperature=0
+# )
+model = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
 
 # Define the messages for the model
 messages = [

@@ -1,7 +1,8 @@
 from dotenv import load_dotenv
 from langchain_chroma import Chroma
 from langchain_core.messages import HumanMessage,SystemMessage,AIMessage
-from langchain_ollama import ChatOllama
+# from langchain_ollama import ChatOllama
+from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
 
 load_dotenv()
@@ -19,7 +20,8 @@ db=Chroma(
     collection_metadata={"hnsw:space": "cosine"}
 )
 
-model = ChatOllama(model="llama3.2", temperature=0)
+# model = ChatOllama(model="llama3.2", temperature=0)
+model = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
 
 retriver=db.as_retriever(
     search_type="similarity_score_threshold",
